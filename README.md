@@ -1,1 +1,1 @@
-1. irancell `https://github.com/dr3aeed/my-v2-configs/blob/master/irancell.text`
+1. irancell : https://raw.githubusercontent.com/dr3aeed/my-v2-configs/refs/heads/master/irancell.text
